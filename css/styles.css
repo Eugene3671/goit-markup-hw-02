@@ -1,0 +1,23 @@
+body {
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+.navigation .link {
+  color: #2e2f42;
+}
+.logo {
+  color: #4d5ae5;
+}
+.navigation .menu-link {
+  color: #2e2f42;
+}
+.address .link {
+  color: #434455;
+}
