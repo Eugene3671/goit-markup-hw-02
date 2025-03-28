@@ -11,7 +11,7 @@ ul {
   list-style-type: none;
 }
 .navigation .link {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -28,16 +28,20 @@ ul {
   font-family: Raleway;
   color: #2e2f42;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .navigation .menu-link:hover,
 .navigation .menu-link:focus {
   color: #404bbf;
 }
+.address {
+  font-style: normal;
+}
 .address .link {
   font-size: 16px;
   color: #434455;
   line-height: 1.5;
-  font-style: normal;
+  letter-spacing: 0.02em;
 }
 .address .link:hover,
 .address .link:focus {
@@ -66,7 +70,7 @@ ul {
 }
 .heading .button:hover,
 .heading .button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .approach .title {
   font-family: "Roboto", sans-serif;
@@ -80,6 +84,7 @@ ul {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
+  letter-spacing: 0.02em;
 }
 .team {
   background-color: #f4f4fd;
@@ -152,5 +157,5 @@ ul {
   font-size: 16px;
   line-height: 1.5;
   color: #f4f4fd;
-  etter-spacing: 0.02em;
+  letter-spacing: 0.02em;
 }
